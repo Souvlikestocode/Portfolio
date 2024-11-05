@@ -12,28 +12,28 @@ BA (Hons.) Economics, 2:1 | OP Jindal Global University | 2018 - 2021
 
 ### WORK EXPERIENCE
 Data Scientist (Contract) | Coimbra Coolectiva | Feb 2024 – May 2024 | Manchester, United Kingdom 
-●	Created a mapping tool using Python, Sreamlit and GitHub generating thematic maps and insights to understand the needs of children and elderly citizens of Coimbra 
-●	Developed a Python script handling excel sheets and cleaning the data automatically before use in spatial analysis
+- Created a mapping tool using Python, Sreamlit and GitHub generating thematic maps and insights to understand the needs of children and elderly citizens of Coimbra
+- Developed a Python script handling excel sheets and cleaning the data automatically before use in spatial analysis
 
 Data Analyst, Product | Aspire FinTech Pvt Ltd | Sept 2022 - Aug 2023 | Bangalore, India
-●	Increased default payment collection by ~5% MoM by analyzing raw customer data and tailoring collection strategies based on customer’s loan repayment pattern
-●	Led the Credit Limit Increase Program (CLIP) every month assessing customer creditworthiness and risk using SQL and Excel, leading to a growth in company revenue by ~8%
-●	Initiated a project to find the highest probabilistic location of loan defaulters using Python and geospatial data locating ~30% of loan defaulters >180 days delinquent
-●	Analyzed 10+ daily status reports using PowerBI and SQL to find insights using data driven decisions to stakeholders 
+- Increased default payment collection by ~5% MoM by analyzing raw customer data and tailoring collection strategies based on customer’s loan repayment pattern
+- Led the Credit Limit Increase Program (CLIP) every month assessing customer creditworthiness and risk using SQL and Excel, leading to a growth in company revenue by ~8%
+- Initiated a project to find the highest probabilistic location of loan defaulters using Python and geospatial data locating ~30% of loan defaulters >180 days delinquent
+- Analyzed 10+ daily status reports using PowerBI and SQL to find insights using data driven decisions to stakeholders 
 
 Analyst, Healthcare Consulting | The Economist Intelligence Unit | Jan 2021 - Feb 2022 | Gurgaon, India
-●	Provided insights to healthcare clients on market level opportunities, competition landscape and customer behaviour
-●	Conducted 50+ In-Depth Interviews (IDI) with key stakeholders and designed 20+ quantitative surveys using Qualtrics to acquire primary data enhancing client’s understanding of market level opportunities
-●	Applied Advanced Excel techniques like Pivot Tables, VLookup, Macros and VBA to analyse primary and secondary data resulting in gaining key actionable insights
-●	Met tight deadlines and presented data-driven outcomes to 10+ clients using Microsoft PowerPoint
+- Provided insights to healthcare clients on market level opportunities, competition landscape and customer behaviour
+- Conducted 50+ In-Depth Interviews (IDI) with key stakeholders and designed 20+ quantitative surveys using Qualtrics to acquire primary data enhancing client’s understanding of market level opportunities
+- Applied Advanced Excel techniques like Pivot Tables, VLookup, Macros and VBA to analyse primary and secondary data resulting in gaining key actionable insights
+- Met tight deadlines and presented data-driven outcomes to 10+ clients using Microsoft PowerPoint
 
 Data Analyst Intern | Capgemini | Dec 2019 - Jan 2020 | Kolkata, India
-●	Presented a failure point analysis of a fashion brand's e-commerce supply chain contributing to ~20% increase in sales
-●	Identified issues with external delivery partners (Metapack issues) to have the highest impact (~40%) in e-commerce sales using linear regression and hypothesis tests in Microsoft Excel
+- Presented a failure point analysis of a fashion brand's e-commerce supply chain contributing to ~20% increase in sales
+- Identified issues with external delivery partners (Metapack issues) to have the highest impact (~40%) in e-commerce sales using linear regression and hypothesis tests in Microsoft Excel
 
 ### PROJECTS
 Monopoly Database
-●	Used SQL to create a dynamic and simplified version of the Monopoly board game
+- Used SQL to create a dynamic and simplified version of the Monopoly board game
 ●	Utilized advanced functions such as triggers to update gameplay and player positioning automatically
 
 AdventureWork Cycle Sales Data 
