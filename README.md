@@ -7,8 +7,7 @@ MSc Data Science (Business and Management), 1st | University of Manchester | 202
 ●	Industry Project:  Created a mapping tool using Python, Sreamlit and GitHub generating thematic maps and insights to understand the needs of children and elderly citizens of Coimbra 
 
 BA (Hons.) Economics, 2:1 | OP Jindal Global University | 2018 - 2021
-●	Modules: Statistics, Econometrics, Intro to Big Data, Applied Economic Analysis, Advanced Mathematics●	
-Email: souvikmitra95274@gmail.com | Mobile: +44 7774736839 | LinkedIn: Souvik Mitra  | Address: Manchester, UK 
+●	Modules: Statistics, Econometrics, Intro to Big Data, Applied Economic Analysis, Advanced Mathematics
 
 
 ### WORK EXPERIENCE
