@@ -34,22 +34,22 @@ Data Analyst Intern | Capgemini | Dec 2019 - Jan 2020 | Kolkata, India
 ### PROJECTS
 Monopoly Database
 - Used SQL to create a dynamic and simplified version of the Monopoly board game
-●	Utilized advanced functions such as triggers to update gameplay and player positioning automatically
+- Utilized advanced functions such as triggers to update gameplay and player positioning automatically
 
 AdventureWork Cycle Sales Data 
-●	Utilized PowerBI to create data visualizations, applied filters and DAX Queries for dynamic user interaction
-●	Leveraged data blending and dashboard actions to integrate multiple data sources using ETL, enabling cross-analysis of regional sales performance and customer segmentation insights
+- Utilized PowerBI to create data visualizations, applied filters and DAX Queries for dynamic user interaction
+- Leveraged data blending and dashboard actions to integrate multiple data sources using ETL, enabling cross-analysis of regional sales performance and customer segmentation insights
 
 Orthopedic Patients Classification 
-●	Utilized K-Means Clustering as an Unsupervised algorithm to classify patients into 2 classes using 6 biomechanical features
-●	Employed SVM, a Machine Learning model to classify patients into 2 classes, Normal or Abnormal, resulting in ~88% accuracy on unseen data
+- Utilized K-Means Clustering as an Unsupervised algorithm to classify patients into 2 classes using 6 biomechanical features
+- Employed SVM, a Machine Learning model to classify patients into 2 classes, Normal or Abnormal, resulting in ~88% accuracy on unseen data
 
 Sales Forecasting Model – Retail Company
-●	Created a Time Series Sales Forecasting model using historical data and employed Machine Learning (ML) models such as RandomForest and XGBoost regression model with ~90% accuracy using Python 
-●	Accumulated large-scale historical data and conducted exploratory data analysis (EDA) on a product and store level to explore the data on a granular level
+- Created a Time Series Sales Forecasting model using historical data and employed Machine Learning (ML) models such as RandomForest and XGBoost regression model with ~90% accuracy using Python
+- Accumulated large-scale historical data and conducted exploratory data analysis (EDA) on a product and store level to explore the data on a granular level
 
 ### SKILLS
-●	Technical Skills: Python, SQL, R, MongoDB, MS Excel, Google Analytics, PowerBI, Tableau, Deep Learning, Snowflake
-●	Certifications: Microsoft PowerBI Certification (Udemy), Google Analytics Certification
-●	Soft Skills: Data Analysis, Attention to Detail, Time Management, Highly Driven
+- Technical Skills: Python, SQL, R, MongoDB, MS Excel, Google Analytics, PowerBI, Tableau, Deep Learning, Snowflake
+- Certifications: Microsoft PowerBI Certification (Udemy), Google Analytics Certification
+- Soft Skills: Data Analysis, Attention to Detail, Time Management, Highly Driven
 
