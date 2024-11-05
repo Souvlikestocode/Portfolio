@@ -2,12 +2,12 @@
 
 ### EDUCATION
 MSc Data Science (Business and Management), 1st | University of Manchester | 2023 – 2024
-●	Modules: Python Programming for Analytics, Text Mining (NLP), Statistics and Machine Learning 
-●	Dissertation: AI Adoption in Asset Management: Sentiment Analysis of News headlines to predict Stock Price Returns using SVM and LSTM
-●	Industry Project:  Created a mapping tool using Python, Sreamlit and GitHub generating thematic maps and insights to understand the needs of children and elderly citizens of Coimbra 
+- Modules: Python Programming for Analytics, Text Mining (NLP), Statistics and Machine Learning
+- Dissertation: AI Adoption in Asset Management: Sentiment Analysis of News headlines to predict Stock Price Returns using SVM and LSTM
+- Industry Project:  Created a mapping tool using Python, Sreamlit and GitHub generating thematic maps and insights to understand the needs of children and elderly citizens of Coimbra 
 
 BA (Hons.) Economics, 2:1 | OP Jindal Global University | 2018 - 2021
-●	Modules: Statistics, Econometrics, Intro to Big Data, Applied Economic Analysis, Advanced Mathematics
+- Modules: Statistics, Econometrics, Intro to Big Data, Applied Economic Analysis, Advanced Mathematics
 
 
 ### WORK EXPERIENCE
